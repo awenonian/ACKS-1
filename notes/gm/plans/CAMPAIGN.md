@@ -3,9 +3,9 @@
 Fill this in from the player's first message, so that no later session has to
 ask again.
 
-- **System:**
-- **Started from:** <character creation / an existing character / mid-campaign>
-- **Rules skill in use:**
+- **System:** ACKS II (Adventurer Conqueror King System, Imperial Imprint)
+- **Started from:** character creation
+- **Rules skill in use:** `acks-ii-gm` (bundled ACKS II reference; search with `python3 /root/.claude/skills/synced/acks-ii-gm/search.py`)
 - **House rules and table conventions:**
 
 ## Lines and veils
