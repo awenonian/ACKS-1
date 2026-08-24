@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/roll.py:*)",
+      "Bash(python3 scripts/oracle.py:*)",
+      "Read(notes/**)",
+      "Edit(notes/**)",
+      "Write(notes/**)",
+      "Read(playtests/**)",
+      "Edit(playtests/**)",
+      "Write(playtests/**)"
+    ]
+  }
+}
