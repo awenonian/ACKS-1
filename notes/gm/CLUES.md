@@ -18,9 +18,9 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 
 | Clue | Where it lives | Core? | Status |
 |---|---|---|---|
-| Weathering band on the stone below the current ground line — it stood at a different depth elsewhere | The stone itself, visible to anyone who crouches | **core** | undelivered |
-| The socket is darker rock than the marker, carrying effaced angular carving — Zaharan, which Edward reads | The stone's base | **core** | undelivered |
-| The inscription's cited distance to the next marker does not match the road | The inscription, readable in Classical Auran | **core** | undelivered |
+| Condition: all five stones are of Ulkyreus, one cutting program, ~380 years — the other four weathered, this one crisp | Edward's own road notes; free to anyone who asks | **core** | **delivered**, session 1, at the stone |
+| The socket is darker rock than the marker, carrying effaced angular carving — Zaharan, which Edward reads | The stone's base, if he digs at it | **core** | partially delivered — he can see the socket is a different, darker rock; the carving needs him to clear it |
+| The distance figure: eleven leagues cited to Casra Nuvicerre, nearer twelve by the road — one league, three miles, exactly how far it was carried | The inscription | **core** | **delivered**, session 1, at the stone |
 | Destrio has been tolled four times this year and says the tolls got heavier after the legions went west | Destrio Mennicus, if asked about the tolls | no | undelivered |
 
 ### Quellus Tarcalus's commission expired three years ago

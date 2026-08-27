@@ -51,11 +51,19 @@ The marker Edward is being asked to read is a genuine Auran boundary stone,
 Classical Auran, cut in the reign of Ulkyreus about three hundred and eighty
 years ago. The inscription is real and says what it appears to say.
 
-**It is not standing where it was cut for.** Quellus Tarcalus had it pulled and
-re-seated roughly three miles further out, in the second year after the legions
-went west, using six men and a sledge. He set it into the nearest available
-socket, which was not an Auran one — it is the base of a much older Zaharan
-marker, its carving nearly effaced.
+**It is not standing where it was cut for.** It had *fallen*, face-down, and lain
+that way long enough that the buried inscription was protected while its fellows
+weathered upright for three and a half centuries. That is why it is the crispest
+stone on the road and the newest-looking, despite being of the same reign and the
+same cutting program as the other four. Quellus Tarcalus found it down, and in the
+second year after the legions went west he had it carried roughly one league — three
+miles — further out and stood back up, with six men and a sledge. He set it into the
+nearest socket that would take it, which was not an Auran one: it is the base of a
+much older Zaharan marker, its carving nearly effaced.
+
+This matters for how Quellus reads himself. He did not deface a boundary; he
+*re-erected a fallen imperial marker*, which is very nearly a pious act, and then
+put it where it suited him. He has never let himself finish that second thought.
 
 **The effect:** a strip of land about three miles deep, which is legally *outside*
 the Empire, now reads as *inside* it. Under Auran treasure law, anything recovered
@@ -71,13 +79,16 @@ campaign's whole question is what Lawfulness costs when the law stops arriving.
 
 **What Edward can actually see at the stone** — observations only, no conclusions:
 
-1. A weathering band on the stone *below* the current ground line. It stood at a
-   different depth somewhere else. **(core)**
+1. **Condition.** All five markers on this road are of the reign of Ulkyreus — same
+   formula, same hand, one cutting program, all about 380 years old. The other four
+   are weathered as 380 years of standing upright will weather a stone. This one is
+   crisp. Something protected it for most of that time. **(core)**
 2. The socket is a different, darker rock than the marker, and carries angular
    worn carving that is not Auran. Zaharan, mostly effaced — Edward can read
    Zaharan, and there is enough left to know what it is. **(core)**
-3. The inscription cites a distance to the next marker down the line. That figure
-   does not match the road. **(core)**
+3. **The distance figure.** It cites eleven leagues to the marker at Casra
+   Nuvicerre. By Edward's own road notes it is nearer twelve. One league out — three
+   miles — which is exactly how far it was carried. **(core)**
 
 Any one of these gets him to "moved." All three are free to a character who looks
 at the stone — never gated behind a throw. A throw governs only how fast, and what
