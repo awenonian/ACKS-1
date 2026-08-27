@@ -18,7 +18,10 @@ Full sheet: `notes/player-owned/edward-copper.md`
 - **Carrying:** crossbow + 20 bolts, short sword, dagger, leather armor,
   backpack, collector's journal, quill and ink, waterskin, 1 week's rations.
   4½ stone — unencumbered.
-- **Where:** the Borderlands. Exact location not yet established in play.
+- **Where:** the Borderlands road, a day or so short of Mirmen Ford, with Destrio
+  Mennicus's caravan — four wagons, eleven people, two of them armed.
+- **Employment:** hired at Kavala to read boundary stones on the road-legs to
+  Mirmen Ford. Half the fee paid up front, half on arrival.
 - **Henchmen:** none. Could support up to 5.
 
 ## What Edward knows about the world

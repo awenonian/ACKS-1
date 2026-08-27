@@ -1,5 +1,11 @@
 # Edward Copper
 
+Born **Uxentio Kupratar** — *Uxentio, of Kupra*, a hill village in Krysea whose one
+asset was a copper seam that gave out two generations before he was born. He left, so
+he carries the toponymic rather than his father's name. Registering as a trader in the
+Empire, he Auranized it: *Kupratar* became **Copper**. Kryseans who knew him young
+still call him Uxentio.
+
 **Venturer 1** (Antiquary template) · Human, Krysean · Lawful · Age 22 · Man-sized, 15 stone
 Title: **Tinker** · XP **0** / 1,500 to 2nd level · **+5% XP** (CHA 13)
 
@@ -80,8 +86,15 @@ Encumbrance **4 3/6 stone** → 120' exploration · 40' combat · 120' running �
 ## Languages
 
 Speaks **Krysean** (native) and **Common Auran** (lingua franca of the Empire).
-Multilingual's three: **Classical Auran** · **Classical Krysean** · **Zaharan**.
+Multilingual's three: **Classical Auran** · **Zaharan** · **Goblin**.
 Literate in all five (INT 9 clears the illiteracy line at 8).
+
+- **Classical Auran** — imperial inscriptions, charters, boundary stones, magical script.
+- **Zaharan** — the Zaharan Empire ruled this region 1,075–660 BE and its ruins are what
+  the Borderlands is made of. Also the parent tongue of Goblin and Orc. Necromancers
+  learn it for the same reason he did; nobody believes that's why *he* did.
+- **Goblin** — descended from Zaharan. The only one of the three he can speak *to*
+  anything with; the other two are dead.
 
 ## Equipment
 
