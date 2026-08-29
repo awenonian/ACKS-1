@@ -11,7 +11,8 @@ your decision for something the table established.
 
 ## Chaos factor
 
-**5**  *(unchanged through chargen; first move it after the opening scene resolves)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**6**  *(raised from 5 after the stone scene: Nauriva's ride left Edward materially
+less in control than he started it)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
 
 Move it one step after a scene: up if the player ended less in control than
 they started, down if more. Not further, and not because a scene felt slow.
@@ -24,7 +25,7 @@ player stalls rather than forcing them to choose.
 
 | Clock | Segments | Filled | What happens when it completes |
 |---|---|---|---|
-| Quellus learns someone has read the stone properly | 4 | 0 | He stops being a toll problem and starts being a man protecting a secret. He will not kill over it at first; he will confiscate, detain, and produce paperwork. |
+| Quellus learns someone has read the stone properly | 4 | **2** | He stops being a toll problem and starts being a man protecting a secret. He will not kill over it at first; he will confiscate, detain, and produce paperwork. |
 | The Mirmen crossing stops being tolled at all | 6 | 1 | Quellus's men give up on him. The strip becomes open ground, and something worse than a fraudulent customs officer moves onto the road. |
 
 ## Rulings
@@ -93,3 +94,22 @@ campaign's whole question is what Lawfulness costs when the law stops arriving.
 Any one of these gets him to "moved." All three are free to a character who looks
 at the stone — never gated behind a throw. A throw governs only how fast, and what
 else he notices while he's down there.
+
+## Nauriva rides ahead — resolved after the oracle interrupted the dig
+
+Oracle scene check on "Edward gets his hour and clears the socket undisturbed" came
+back **interrupted**, event *something hidden becomes visible*, read as *betray /
+law*. Resolved as: Nauriva has been on Quellus Tarcalus's payroll for four years,
+riding ahead of caravans to tell him what is in the wagons.
+
+**This is the answer to Destrio's own grievance.** He has been telling himself the
+toll-taker invents a new reason every time. In fact Quellus knows the cargo, the
+count, and the owner before the wagons are in sight, and prices accordingly. Destrio
+has never once considered that, and Edward has not been told it.
+
+Her line about the ford was true weather and also happened to be the only argument
+available against digging. Both things at once. Do not let anyone in the fiction
+point this out — the player heard the line and can go back to it.
+
+She is not a villain. She rides; she does not fight; if it came to violence over a
+toll she would argue to pay. Keep her that way.

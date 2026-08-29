@@ -21,7 +21,16 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | Condition: all five stones are of Ulkyreus, one cutting program, ~380 years — the other four weathered, this one crisp | Edward's own road notes; free to anyone who asks | **core** | **delivered**, session 1, at the stone |
 | The socket is darker rock than the marker, carrying effaced angular carving — Zaharan, which Edward reads | The stone's base, if he digs at it | **core** | partially delivered — he can see the socket is a different, darker rock; the carving needs him to clear it |
 | The distance figure: eleven leagues cited to Casra Nuvicerre, nearer twelve by the road — one league, three miles, exactly how far it was carried | The inscription | **core** | **delivered**, session 1, at the stone |
-| Destrio has been tolled four times this year and says the tolls got heavier after the legions went west | Destrio Mennicus, if asked about the tolls | no | undelivered |
+| Destrio has been tolled four times this year and says the tolls got heavier after the legions went west | Destrio Mennicus, if asked about the tolls | no | **delivered**, session 1 — volunteered unprompted |
+
+### Quellus prices each toll because he knows the cargo in advance
+
+| Clue | Where it lives | Core? | Status |
+|---|---|---|---|
+| Nauriva left camp during the dig, riding east, on a road she said was about to flood | The dig scene | **core** | **delivered**, session 1 |
+| Destrio's grievance is that the sum is different every time and the man always has a reason | Destrio, already said | no | **delivered**, session 1 |
+| She rode with four other masters on this road before Destrio | Anyone at the ford who knows the road crews | no | undelivered |
+| Quellus's toll ledger itemises cargo he could not have inspected yet | Quellus's camp | no | undelivered |
 
 ### Quellus Tarcalus's commission expired three years ago
 

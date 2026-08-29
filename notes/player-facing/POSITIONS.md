@@ -17,3 +17,7 @@ Format, loosely:
 > **Who** — what they committed to. To whom. What it cost. *(session/scene)*
 
 ---
+
+| Destrio Mennicus | Told Edward, unprompted, that he has paid the Empire's half four times this year at Mirmen Ford to a man with a seal, and that the sum is different every time | Session 1, at the boundary stone. Said quietly, on his knees, with his back to his own crew |
+| Destrio Mennicus | Spent the ford crossing to find out what was under the stone | Session 1. Cost him a day and he knew it when he said yes |
+| Nauriva | Argued in the open against digging, on grounds of weather and the ford | Session 1. The weather part was true |
