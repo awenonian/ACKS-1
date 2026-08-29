@@ -19,7 +19,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | Clue | Where it lives | Core? | Status |
 |---|---|---|---|
 | Condition: all five stones are of Ulkyreus, one cutting program, ~380 years — the other four weathered, this one crisp | Edward's own road notes; free to anyone who asks | **core** | **delivered**, session 1, at the stone |
-| The socket is darker rock than the marker, carrying effaced angular carving — Zaharan, which Edward reads | The stone's base, if he digs at it | **core** | partially delivered — he can see the socket is a different, darker rock; the carving needs him to clear it |
+| The socket is darker rock than the marker, carrying effaced angular carving — Zaharan, which Edward reads | The stone's base | **core** | **delivered**, session 1 — dug out and read in full |
 | The distance figure: eleven leagues cited to Casra Nuvicerre, nearer twelve by the road — one league, three miles, exactly how far it was carried | The inscription | **core** | **delivered**, session 1, at the stone |
 | Destrio has been tolled four times this year and says the tolls got heavier after the legions went west | Destrio Mennicus, if asked about the tolls | no | **delivered**, session 1 — volunteered unprompted |
 
@@ -81,3 +81,12 @@ correcting them.
 - Auran treasure law is public knowledge and already on the player-facing ledger.
   It is not a clue. What it *means* here is the inference, and that stays the
   player's to make.
+
+### The nine stones (new, opened session 1 — no conclusion required yet)
+
+| Clue | Where it lives | Core? | Status |
+|---|---|---|---|
+| The socket is an interdiction marker, not a boundary stone — different verb register entirely | The carving | no | **delivered**, session 1 |
+| It cites a series: at least nine stones | The carving | no | **delivered**, session 1 |
+| House-name fragment `BET-ASHUR—` | The carving | no | **delivered**, session 1 |
+| Dated to c. 655 BE, the last generation of Zahar | Edward's own Knowledge (history), thrown and made | no | **delivered**, session 1 |

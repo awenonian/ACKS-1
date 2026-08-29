@@ -12,6 +12,8 @@ recorded status is worse than either, because next session has to guess.**
 | Who has been collecting the Empire's half in the moved strip, and under what authority | **open** | Quellus Tarcalus at the Mirmen crossing. Not yet met |
 | Whether Edward declares his own finds, now that he knows the line is a lie | **cold** | Nothing is pushing it yet. It is the campaign's central question and should be pushed when he first finds something worth declaring |
 | The Zaharan marker under the imperial one, and where *that* line ran | **cold** | Established in prep, not in play. Available whenever the antiquary side needs feeding |
+| Where the other eight Zaharan stones are, and what they fence | **open** | Edward has one point on a line of nine and a date of c. 655 BE. The line seals a road into the Waste; he has no way to know that yet |
+| Who or what BET-ASHUR— was | **open** | A fragment on the socket. Nothing else yet |
 | Nauriva rode east during the dig | **open** | She is Quellus's, four years running, paid to report cargo ahead of arrival. Edward and Destrio know only that she is gone |
 | Kupra, the played-out copper village Edward left | **cold** | Backstory. Nothing pulling on it yet |
 

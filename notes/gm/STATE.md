@@ -11,8 +11,8 @@ your decision for something the table established.
 
 ## Chaos factor
 
-**6**  *(raised from 5 after the stone scene: Nauriva's ride left Edward materially
-less in control than he started it)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**5**  *(6 after Nauriva's ride; back to 5 after the dig, which Edward finished on
+his own terms and got exactly what he went for)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
 
 Move it one step after a scene: up if the player ended less in control than
 they started, down if more. Not further, and not because a scene felt slow.
@@ -113,3 +113,34 @@ point this out — the player heard the line and can go back to it.
 
 She is not a villain. She rides; she does not fight; if it came to violence over a
 toll she would argue to pay. Keep her that way.
+
+## What the Zaharan socket actually is — RESOLVED, mostly unrevealed
+
+The block under the Auran marker is **in situ**. It has never been moved. The Zaharan
+line runs through this spot and always has; Quellus simply found a ready-made hole.
+
+It is not a property boundary. It is an **interdiction marker** — the register Zahar
+used for sealing a place against entry, not for dividing land. It is one of a series
+of **at least nine**. It carries a house-name in the Bet- patronymic form, of which
+only `BET-ASHUR—` survives.
+
+**What the nine stones fence** (not revealed, and Edward has no way to know it yet):
+a **road**. A Zaharan processional way running from the Borderlands out into the
+Waste. When the Empyrean War broke Zahar and the last sorcerer-king was driven into
+the Waste — canon, 660–650 BE — his own people sealed the road behind him. Whether
+to stop anyone following him, or to stop him coming back, is the question the
+campaign is actually about, and **I do not get to keep that open**: it was to stop
+him coming back. They were afraid of him, not loyal to him.
+
+**Dating** (delivered — Edward made his Knowledge (history) throw, 18 vs 11+): the
+form of the sealing-verb and the orthography of the house-name are last-generation
+Zaharan, after the Empyrean War began. He can place it at roughly **655 BE, give or
+take a decade.** About thirteen hundred years old.
+
+So: two boundary markers in one socket, nine hundred years apart. The Auran one is
+a lie about where the Empire stops. The Zaharan one is the truth about something
+else entirely, and nobody has looked at it since Quellus dropped a rock on it.
+
+**Threads this opens:** where the other eight stones are; what BET-ASHUR— was;
+where the road goes. Feed these when the antiquary side needs work that isn't about
+tolls.
