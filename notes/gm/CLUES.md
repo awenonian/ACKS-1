@@ -23,6 +23,14 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | The distance figure: eleven leagues cited to Casra Nuvicerre, nearer twelve by the road — one league, three miles, exactly how far it was carried | The inscription | **core** | **delivered**, session 1, at the stone |
 | Destrio has been tolled four times this year and says the tolls got heavier after the legions went west | Destrio Mennicus, if asked about the tolls | no | **delivered**, session 1 — volunteered unprompted |
 
+### (added) The road-leg gap
+
+| Clue | Where it lives | Core? | Status |
+|---|---|---|---|
+| Stone 4 → Stone 5 is 2 leagues where every other leg that day was 1–1¼ | Edward's own journal | **core** | **delivered**, session 1, on request |
+| The leg from this stone east to the next should therefore be 1 league short — testable tomorrow | The road ahead | no | undelivered |
+| An empty socket with a stone-shaped depression, one league back west | Off the road, one league behind | no | undelivered |
+
 ### Quellus prices each toll because he knows the cargo in advance
 
 | Clue | Where it lives | Core? | Status |

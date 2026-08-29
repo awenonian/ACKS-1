@@ -185,3 +185,32 @@ Knowledge throw on):**
 They do not — they stand on the Auran line, which is not the Zaharan one. Digging
 one would be strong evidence and would cost him a ride back down the road. Do not
 volunteer this test; let him think of it.
+
+## The road legs — Edward's journal, resolved
+
+The boundary stones on this line are **not** evenly spaced; they were set at terrain
+points (bends, ridge ends, dry crossings), so no one would notice a gap by eye. But
+Edward records road legs as a matter of habit, and the day's page reads:
+
+| Leg | Distance |
+|---|---|
+| Stone 1 → Stone 2 | 1 league |
+| Stone 2 → Stone 3 | 1¼ leagues |
+| Stone 3 → Stone 4 | 1 league |
+| **Stone 4 → Stone 5 (this one)** | **2 leagues** |
+
+One league too long, which is exactly the three miles it was carried. The
+corresponding leg *ahead* — this stone to the next one east, which nobody has read —
+is one league too short. That is a checkable prediction and it is the strongest
+evidence on offer: a measurement, not a feeling in a thumb.
+
+**Its original socket is still out there**, one league back west, empty, with a
+stone-shaped depression in it. Nobody looked, because the caravan was moving and an
+empty hole a few yards off the road looks like nothing at all.
+
+**What lies in the moved strip:** nothing. No settlement, no farm, no holding — scrub,
+a dry watercourse, a spur of grey rock. This is important and must stay true. The
+strip is not valuable because anybody lives on it. It is valuable because of what
+Auran treasure law says about ground that is outside the Empire, and because the
+Borderlands is full of ruins. The player has the treasure law on the player-facing
+ledger already. **Do not connect it for them.**
