@@ -144,3 +144,44 @@ else entirely, and nobody has looked at it since Quellus dropped a rock on it.
 **Threads this opens:** where the other eight stones are; what BET-ASHUR— was;
 where the road goes. Feed these when the antiquary side needs work that isn't about
 tolls.
+
+## The forgery tests — every one comes back authentic
+
+The player pushed on "was it newly carved," which is the wrong theory, and the
+honest answer is that the stone survives every test an antiquary can put to it.
+Do not soften this and do not hint. The world's answer is that the inscription
+is genuinely 380 years old.
+
+**Delivered, session 1, free (no throw — same examination he already made his
+Knowledge throw on):**
+
+- **Letterforms** — correct for the reign of Ulkyreus, including the flat-tailed
+  R that went out of the imperial hand within two generations after. A forger
+  working from a surviving stone could copy it; a forger working from a book
+  would get it wrong; nobody would think to.
+- **Orthography** — the formula carries an archaic doubled vowel in *Aurë* that
+  was dropped from official use about three hundred years ago. Correct for the
+  date, wrong for anyone writing it fresh.
+- **Tooling** — one chisel, one hand, one width, no recutting, no second pass.
+- **Groove patina** — the insides of the cuts are the same colour as the faces.
+  A recut inscription shows fresh stone in the grooves. This shows none.
+
+**What he finds instead — the two physical facts that are actually presentable:**
+
+1. **The inscribed face is stained, not weathered.** An even earthy discolouration
+   across the whole face, quite unlike the pitted, lichened exposure on the four
+   stones read that morning. It is the staining of long ground contact.
+2. **There is a soil line on the shaft, three hand-widths above the current
+   ground.** A hard band of discolouration running right round the stone, with
+   different growth above and below it. It is not at the height the stone now
+   stands at.
+3. **The tile in the packing is new.** Broken roof-tile hammered in around the
+   shaft to wedge it plumb. Tile is manufactured, and Edward knows kiln-types
+   well enough to say this is Borderlands work of the last decade or two. **This
+   is the piece a magistrate can hold.** A stone of Ulkyreus set in tile from
+   twenty years ago sets itself.
+
+**Edward has not checked whether the other four stones have Zaharan sockets.**
+They do not — they stand on the Auran line, which is not the Zaharan one. Digging
+one would be strong evidence and would cost him a ride back down the road. Do not
+volunteer this test; let him think of it.
