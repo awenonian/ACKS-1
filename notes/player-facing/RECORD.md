@@ -38,3 +38,17 @@ the granite's overhang, carries Zaharan carving: an interdiction, not a boundary
 of a series of at least nine; a house-name worn down to `BET-ASHUR—`. Edward dated it
 to roughly 655 BE, the last generation of Zahar. Two markers in one hole, nine hundred
 years apart.
+
+**Testing the stone.** Edward went back out with a torch and put the four forgery
+tests to it: letterforms, orthography, tooling, patina in the cuts. All four came
+back authentic. The inscription is genuinely of the reign of Ulkyreus. What he found
+instead was that the inscribed face is *stained* rather than weathered, that a soil
+line runs round the shaft three hand-widths above the present ground, and that the
+packing wedging the stone plumb is broken roof-tile of Borderlands make, fired within
+the last twenty years. He put a piece of the tile in his pocket.
+
+Going back through his own road notes, he found the day's legs ran 1 league, 1¼, 1,
+and then **2** — the leg to this stone twice the length of any other that day.
+
+Session ended here: four hours before dawn, the caravan camped a day short of Mirmen
+Ford, the written statement signed and saying nothing about any of this.
