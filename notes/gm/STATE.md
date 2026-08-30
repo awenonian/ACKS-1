@@ -214,3 +214,43 @@ strip is not valuable because anybody lives on it. It is valuable because of wha
 Auran treasure law says about ground that is outside the Empire, and because the
 Borderlands is full of ruins. The player has the treasure law on the player-facing
 ledger already. **Do not connect it for them.**
+
+---
+
+## The geometry of the frontier — RESOLVED, session 2, and now partly in play
+
+The player asked the right question — *moving a marker along a chain doesn't extend
+anything* — and this is the answer. It must not drift.
+
+**The Ulkyrean survey overshot.** In the reign of Ulkyreus the Empire meant to take
+this country, and the surveyors ran a chain of markers all the way out along the
+Mirmen road, past the crossing and beyond, in one cutting program. The Empire never
+absorbed it. The legions were needed elsewhere then too.
+
+**So the chain is longer than the Empire.** The markers beyond the frontier are
+genuine, identical, and stand in country the Empire does not hold. Stone 6 is one of
+those. That is why it is authentic, untampered, and completely uninteresting.
+
+**The frontier itself is declared at a named marker in the chain** — the fifth
+beyond Casra Nuvicerre. The declaration lives in the survey roll (the *forma*) at
+Casra Nuvicerre. The ground does not carry it; only the roll does.
+
+**Therefore moving the fifth stone one league further from Casra moves the declared
+frontier one league.** That is the whole fraud, and it needed exactly one stone.
+
+**What "everyone knows":** that the Empire stops "about the fifth stone." Which
+stone, and where that stone stands, is what nobody checks. Edward knows the saying.
+
+**Direction convention, fixed:** Casra Nuvicerre is WEST, behind them, ~12 leagues.
+Mirmen Ford is EAST, ahead. East = away from Casra = *outward*. The road numbers
+climb eastward: stone 5 says eleven leagues, stone 6 says thirteen.
+
+**Delivered in play, session 2:** the road-leg test at stone 6 (walked one league
+where the stones' own figures say two — one stone, one league, confirmed from both
+sides); Auran boundary law (the limes is a surveyed line fixed by monuments; the
+figures point back to the seat of survey; the roll governs over the monument;
+*termini moti* is loss of the land, twice value, and infamy); the *forma* and the
+bounds-court both sit at Casra Nuvicerre, three days back west.
+
+**Not yet delivered:** that the strip contains nothing and is valuable only because
+of what treasure law says about ground outside the Empire. Still his to make.
