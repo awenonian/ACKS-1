@@ -25,7 +25,7 @@ player stalls rather than forcing them to choose.
 
 | Clock | Segments | Filled | What happens when it completes |
 |---|---|---|---|
-| Quellus learns someone has read the stone properly | 4 | **3** | He stops being a toll problem and starts being a man protecting a secret. He will not kill over it at first; he will confiscate, detain, and produce paperwork. |
+| ~~Quellus learns someone has read the stone properly~~ | 4 | **4 — COMPLETE, session 2** | Resolved the other way: he stopped collecting instead of protecting himself. See the waystation section below. |
 | The Mirmen crossing stops being tolled at all | 6 | 1 | Quellus's men give up on him. The strip becomes open ground, and something worse than a fraudulent customs officer moves onto the road. |
 
 ## Rulings
@@ -268,3 +268,52 @@ suspicious. He is *interested*. Three years unrelieved, and a literate man who r
 Classical Auran and walks the boundary chain professionally is the nearest thing to
 the Empire that has come down this road in four years. He half hopes Edward will
 vindicate him. That is what makes him dangerous — not menace, hope.
+
+## The waystation scene — RESOLVED IN PLAY, session 2
+
+**Quellus's memorandum (year two, to the office at Casra Nuvicerre, never answered):**
+eleven lines of correct official Auran reporting that the marker of the bound was found
+fallen and buried, was raised by the officer commanding with six men on the fourth day,
+and was set in *the nearest sound socket, the former being broken and unfit*. He kept
+the copy. He produced it himself, to disprove Edward, and it did the opposite.
+
+**Is "the former being broken and unfit" true?** Yes. Quellus does not lie. The original
+Auran socket-block, one league west, is genuinely cracked through — the stone's own fall,
+or frost. What is *not* true is "nearest." Three miles with six men and a sledge is a day's
+work and no one carries a stone three miles to find the nearest anything. Edward saw the
+contradiction and chose not to say it. **The player has explicitly decided Quellus is
+sincere and not covering up. He is right about the sincerity and wrong about the league —
+do not resolve this for him, and do not have anyone in the fiction point at "nearest."**
+
+**Quellus's new theory, which he arrived at himself and believes:** somebody moved the
+stone before him, and he has been holding a line they falsified. He is wrong. Do not
+soften this into being secretly right. Nobody moved it before him. It fell where it stood.
+
+**What the old socket will show, when they get there:** an Auran socket-block cracked
+through, a stone-shaped depression, and the bedding of a marker that stood upright there
+for three and a half centuries. It refutes his theory outright. It also confirms every
+word of his memorandum except the one he leaned on.
+
+**His commission's district:** "to the customs of the Mirmen crossing and the road thereto,
+as far as the bound of the Empire." The post sits four leagues *outside* the Empire, at the
+chokepoint. His authority to take the Empire's half runs only over ground inside the bound.
+About a dozen freelance diggers work the ruin country between the crossing and the stone —
+"the Spur," "the low barrow" — and bring their finds down this road because there is no
+other road. Three or four of the twelve diggings in his ledgers sit on either side of the
+moved league; he reckoned that himself, out loud.
+
+**Auran law as delivered:** the memorandum buys him *intent* — no infamy, no severe
+*termini moti*, because he reported it openly in his second year. It does not make the
+bound correct. Restitution follows the man holding the money, not the office that never
+wrote back. The Empire's silence has never bound the Empire.
+
+**Distances, fixed:** crossing → fifth stone = 4 leagues (12 miles). Fifth stone → old
+socket = 1 league further west. So the socket is **15 miles from the crossing**, not the
+three miles Quellus said off the cuff (he reckons from the stone). Light horses do 48
+miles/day base, so 30 miles out and back is a comfortable day — but not this afternoon.
+Quellus keeps three horses in the stockade.
+
+**Clock update:** "Quellus learns someone has read the stone properly" is **complete**, and
+it did *not* complete the way it was written. He did not become a man protecting a secret.
+He stopped collecting. Retire that clock; the pressure now runs the other way — eleven men
+at a crossing with no income, and a customs officer who has just abolished his own post.
