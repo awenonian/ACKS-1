@@ -11,8 +11,8 @@ your decision for something the table established.
 
 ## Chaos factor
 
-**5**  *(6 after Nauriva's ride; back to 5 after the dig, which Edward finished on
-his own terms and got exactly what he went for)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**4**  *(6 after Nauriva's ride; 5 after the dig; down to 4 in session 2 — he predicted
+the short leg, walked it, and was right, and arrived at the crossing on his own terms)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
 
 Move it one step after a scene: up if the player ended less in control than
 they started, down if more. Not further, and not because a scene felt slow.
@@ -25,7 +25,7 @@ player stalls rather than forcing them to choose.
 
 | Clock | Segments | Filled | What happens when it completes |
 |---|---|---|---|
-| Quellus learns someone has read the stone properly | 4 | **2** | He stops being a toll problem and starts being a man protecting a secret. He will not kill over it at first; he will confiscate, detain, and produce paperwork. |
+| Quellus learns someone has read the stone properly | 4 | **3** | He stops being a toll problem and starts being a man protecting a secret. He will not kill over it at first; he will confiscate, detain, and produce paperwork. |
 | The Mirmen crossing stops being tolled at all | 6 | 1 | Quellus's men give up on him. The strip becomes open ground, and something worse than a fraudulent customs officer moves onto the road. |
 
 ## Rulings
@@ -254,3 +254,17 @@ bounds-court both sit at Casra Nuvicerre, three days back west.
 
 **Not yet delivered:** that the strip contains nothing and is valuable only because
 of what treasure law says about ground outside the Empire. Still his to make.
+
+## Otho — the man who walks up the road (new, session 2)
+
+Tirenean, about forty, one of the eleven. Was a soldier; is now a man who lives at a
+crossing. Wants dry boots and to be somewhere with a roof, and conducts the whole
+reception in that spirit. Not menacing, not clever, not lying. He asks *"which of you
+reads?"* because Quellus told him to, which is the only tell Edward gets that Nauriva
+talked, and nobody in the fiction will point at it.
+
+**Quellus's actual posture, decided from INTENTION, not the oracle:** he is not
+suspicious. He is *interested*. Three years unrelieved, and a literate man who reads
+Classical Auran and walks the boundary chain professionally is the nearest thing to
+the Empire that has come down this road in four years. He half hopes Edward will
+vindicate him. That is what makes him dangerous — not menace, hope.
