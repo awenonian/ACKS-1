@@ -5,7 +5,9 @@ ask again.
 
 - **System:** ACKS II (Adventurer Conqueror King System, Imperial Imprint)
 - **Started from:** character creation
-- **Rules skill in use:** `acks-ii-gm` (bundled ACKS II reference; search with `python3 /root/.claude/skills/synced/acks-ii-gm/search.py`)
+- **Rules skill in use:** `acks-ii` — invoke it with the Skill tool at session start. Its
+  directory path changes between sessions, so don't hardcode one; the skill's own
+  instructions give the `search.py` / `query.py` commands relative to its base directory.
 - **House rules and table conventions:**
   - **Character-creation template rolls are the player's choice, not random.** The
     player asked for this specifically for the Venturer's Antiquary template and

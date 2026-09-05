@@ -41,19 +41,35 @@ Full sheet: `notes/player-owned/edward-copper.md`
   and electrum coins circulate, and Auran merchants take them at a discount out
   of suspicion.
 
-## Open, as of the end of session 1
+## Open, as of mid-session 2
 
-- **The signed statement** is in the journal: date, place, the Auran formula in full,
-  the league discrepancy, the condition of the cutting, the tile in the socket.
-  Destrio's name under Edward's. It says nothing about the Zaharan block.
-- **The tile** is the piece that can be handed to somebody.
-- **The road-leg gap:** 1, 1¼, 1, then 2. If that means what it might mean, the leg
-  from this stone east to the *next* stone should come up one league short — and the
-  road east is the road the caravan is already taking.
-- **Nauriva** rode east in the night with eleven days' wages left unclaimed. No reason
-  established.
-- **Under the Auran stone:** a Zaharan interdiction marker, in place, undisturbed, one
-  of a series of at least nine, house-name worn to `BET-ASHUR—`, cut around 655 BE.
-  Nobody in the Empire knows it is there.
-- **At Mirmen Ford:** a man with a seal named Quellus Tarcalus, and eleven men, and
-  four tolls this year that were all different and all had reasons.
+- **Where:** on the road east, ~3 leagues short of Mirmen Ford, midday, steady rain.
+  The crossing is in sight from the ridge: waystation, new palisade, men on the bank
+  working a rope. The water will be up before they arrive.
+- **Proved, twice, from both sides:** the fifth stone stands one league further from
+  Casra Nuvicerre than the survey put it. Stone 5 says eleven leagues, stone 6 says
+  thirteen; by their own figures two leagues apart, and Edward walked one. Stone 6 is
+  clean — turf to the shaft, even weathering, no packing.
+- **Why one stone is enough:** the Ulkyrean chain overshot the Empire — markers run
+  past the crossing and beyond, from a conquest that never happened. So the frontier is
+  *declared* at a named stone in the roll, not simply "where the stones are." The saying
+  on this road is that the Empire stops about the fifth stone beyond Casra Nuvicerre.
+- **Boundary law:** the monuments are the border in law; the roll (*forma*) governs where
+  the two disagree; the roll and the nearest bounds-magistrate are both at Casra Nuvicerre,
+  three days back west. Moving a marker is *termini moti* — loss of the land in dispute,
+  twice its value, and infamy.
+- **The signed statement** is in Destrio's coat. It goes to Casra Nuvicerre in the fifth
+  week, on his return leg. It says nothing about the Zaharan block.
+- **The tile** is in Edward's pocket. It is the piece that can be handed to somebody — and
+  the piece that can be found on him.
+- **The cover story, agreed:** old stones, hours lost, crossing lost. All true. Destrio will
+  not lie beyond that. Do not say *Zaharan* at the crossing.
+- **Destrio's toll history:** 3, 5, 6, then 8 sun in Solis. Twenty-two sun this year.
+- **Nauriva:** rode east in the night, leaving eleven days' wages counted in squared stacks.
+  Destrio has hired her three times, she always came to him, and she asks less than she's worth.
+- **Under the Auran stone:** a Zaharan interdiction marker, in place and undisturbed, one of a
+  series of at least nine, house-name worn to `BET-ASHUR—`, cut around 655 BE. Its socket is
+  weather-rounded and too big for the granite — something stood in it and was gone long before.
+  Its text is oriented to be read by someone standing north of it, facing south: by whoever is
+  coming back.
+- **At Mirmen Ford:** Quellus Tarcalus, a seal, and eleven men.
