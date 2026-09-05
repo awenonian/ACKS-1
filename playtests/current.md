@@ -724,3 +724,342 @@ sincere. His guilt is one question away but he does not volunteer it here.]
 > Outside, faintly, men are shouting about the rope.
 >
 > "Three years I've asked. Everybody who comes through this crossing can read a tally and not one of them can read a stone."
+
+---
+
+**PLAYER —**
+
+> "Why is The eleven league stone important? The report might look odd if it makes that claim out of the blue."
+
+---
+
+**GM —** [The question that opens him up. He volunteers the year-two re-erection as a boast, because to him it is
+one — held back one turn, gated behind the player choosing to ask.]
+
+> He takes the question seriously. That's the thing about him you will find hardest to hold onto later: he takes
+> questions seriously.
+>
+> "Because the commission is bounded." He turns the roll and moves his hand — the thumb comes off the term clause and
+> goes down two lines, onto a different one, and he reads it out in the flat voice of a man who has read it out to
+> himself many times. "*—to the customs of the Mirmen crossing and the road thereto, as far as the bound of the Empire.*"
+>
+> He lets that sit.
+>
+> "The crossing is where the traffic is, so the post is at the crossing. But the *authority* stops at the bound, and the
+> bound on this road is the eleven-league stone. Everything I have taken in four years, I have taken as the Empire's half
+> on goods lifted inside it. From the Spur, mostly — there's a dozen men digging that country between here and the stone,
+> and there has been since my father's time, and they bring it down this road because there's no other road." He taps the
+> ledgers with one finger, once. "If the bound is where I say it is, every line in those is correct. If it isn't, every
+> line in those is theft, and I have been four years about it, and I'd have a right to be told."
+>
+> Rain on the roof. Somebody outside drops something heavy and swears.
+>
+> "So. Not out of the blue. *That* is the report. A qualified reader walked the chain from Casra Nuvicerre and finds the
+> bound sound." He almost smiles. "And I'll tell you the rest, because you'll want it for the page and because I'm rather
+> proud of it. That stone was *down*. Face in the dirt, and had been God knows how long, and not one of the four men before
+> me thought it worth a morning. Second year, I took six men and a sledge and a day, and I found it a sound socket and I
+> stood it back up. On the frontier. In the rain."
+>
+> He looks at you with the plain expectation of a man describing the best thing he ever did.
+>
+> "Nobody has ever written that down."
+
+---
+
+**PLAYER —**
+
+> I look around, looking a little uncomfortable, because I am. Is there anyone in the room besides us? If not, I'll say it
+> plainly, but if so, I'll try to get his confidence as much as I can. I don't want to blurt this out in front of his people.
+> Maybe a "Can we speak privately?"
+> This is somewhat awkward to say. "Um. Unfortunately you seem to have placed it wrong. About a league too far."
+> "Do your records mark the exact locations? a league's difference isn't so great, there may only be a few discrepancies."
+
+---
+
+**GM —** [The campaign's central move, and it cost eight sun. No reaction roll: his first response is determined by
+character (a man of records goes to the records), not by chance. The memorandum was resolved on the spot and written into
+`gm/STATE.md`.]
+
+> You look around first. The room is one room: hearth, table, shuttered window, a curtained-off cot at the far end that is
+> plainly his and plainly empty. The door is shut. Otho stayed outside in the rain, and did it without being told twice.
+>
+> So you say it.
+>
+> You say it badly — the *um* comes out, and the *unfortunately*, and you hear yourself doing the thing you do when a fact is
+> heavier than the sentence you've built to carry it.
+>
+> Quellus Tarcalus does not move for a moment. Then he sits down, which is worse than if he'd stood up.
+>
+> "A league." Not angry. Careful, the way a man is careful lifting something he has been told is fragile and does not believe
+> is. "You've walked it, then. Not eyed it. Walked it."
+>
+> You tell him how.
+>
+> "Beans," he says. "Right." And then, to your other question, businesslike, almost grateful to have something procedural to
+> do: "The ledgers give the digging, not the league. *Two jars, the Spur*; *bronzes, the low barrow*; that sort. Some of those
+> I could put on either side of a league and some I couldn't." He is already reckoning it. "Three of twelve. Perhaps four."
+>
+> Then he stops reckoning, because he has thought of something better, and he gets up and goes to the letter-copies and goes
+> into them from the bottom — the old end — with the speed of a man who knows exactly where a thing is.
+>
+> He brings back a single sheet, foxed and soft, and lays it in front of you, and turns it so you can read it, which is a
+> courtesy and also a challenge.
+>
+> It is a memorandum in his own hand, dated the second year, addressed to the office at Casra Nuvicerre. It reports, in eleven
+> lines of correct official Auran, that the marker of the bound had been found fallen and buried; that it had been raised by the
+> officer commanding, with six men, on the fourth day; that it had been set in the nearest sound socket, *the former being broken
+> and unfit*; and that the office was advised accordingly.
+>
+> No reply is copied under it. There never was one.
+>
+> He watches you read it. He is not afraid. When you look up he is nodding slowly, and you can see the shape of the thought
+> arriving in him and settling, and it is not the shape you expected.
+>
+> "The former being broken and unfit," he says. "You understand what that means, then."
+>
+> He taps the line twice with one finger.
+>
+> "It means it was already down when I came, and it was already *wrong* when I came. Somebody moved my stone before I ever set
+> eyes on it. And I have been holding the line where *they* put it."
+
+---
+
+**PLAYER —**
+
+> "That would explain it better. I was wondering how a marker managed to fall far enough that it's nearest socket was a league
+> off. I wonder who was here before, or why they'd move it. Maybe a specific site was not quite in their bounds?"
+> "But that may not interest you. This looks correct, and if you'd still like my report, I expect getting all of it on the record
+> would ease any future issues that may arise. I can reference your document in the report."
+> My (Justin's) understanding is that this would probably hold up in court. That he's discharged his duty, and the court's failure
+> to correct would mean it's their job to make anyone whole. That may not be how Auran law works.
+
+---
+
+**GM —** [Answered the out-of-character legal question honestly as Edward's trade knowledge; gave Edward the "nearest" contradiction
+as an observation and had him decline to voice it. Quellus's clock completed — and completed the *opposite* way to how it was
+prepped, because the player had earned that.]
+
+> Your reading of the law is close but it breaks on one joint, and Edward knows exactly which one.
+>
+> The memorandum is worth a great deal — but what it buys is *intent*. **Termini moti** in its severe form is for a man who moved a
+> bound to gain by it. A man who moved one and reported it to the office in writing in his second year did not act covertly, and no
+> bounds-court would put infamy on him for it. His neck is fine.
+>
+> It does not make the bound correct. The line goes back where the roll says it goes, and everything taken on the wrong side of it was
+> taken without authority, and that is restitution — and restitution follows the man who holds the money, not the office that failed
+> to write back. The Empire's silence has never bound the Empire. That is nearly the definition of the Empire.
+>
+> So: he keeps his name. He does not keep the twenty-two sun, or the four years of it.
+>
+> You also notice, because you cannot not, that the memorandum says *the nearest sound socket*. You have had your hands in that socket.
+> It is sound. It is also a league from wherever the stone came down, and no man carries a stone three miles to find the nearest anything.
+>
+> You don't say that part.
+>
+> ---
+>
+> What you say is the offer, and he listens to it properly, and for a moment he is almost cheerful.
+>
+> "Reference the memorandum. Yes. Yes — that's *right*, that's how it should be done." He is already seeing the shape of the file. "It
+> goes west as one packet. His report, my report, the ledgers if they want them."
+>
+> Then he stops.
+>
+> "What does yours say, though. Word for word. Not the sense of it. The words."
+>
+> And when you give him the words — that the bound stands a league east of where the survey set it — he sits with them.
+>
+> He does not argue. That is the worst of it. He looks at the seven candles, and at the ledgers he has not touched since he set them down,
+> and he says, quietly, in the same reasonable voice:
+>
+> "Then I stop tonight. I can't take another copper off another wagon after hearing that, and I won't." A pause. "I've eleven men. Nine of
+> them have nowhere. Otho's boy is here." Another. "That's not an argument. I know it isn't an argument. I'm telling you what it is."
+>
+> He stands, and pulls the shutter open a hand's width, and looks at the rain and the light going out of it.
+>
+> "Three miles back up the road there's a hole with nothing in it. I've never once looked at it — never had cause, I knew what I'd done."
+> He turns round. "I'd like to look at it before you write. Both of us. Now, while there's light, and Otho can bring a lantern for the way back."
+>
+> "If it's a broken socket a league behind where it should be, then somebody moved my stone before me and I want to know who. And if it isn't—"
+>
+> He doesn't finish that one either. Nobody around here finishes their sentences.
+
+---
+
+**PLAYER —**
+
+> I mean, yeah, the nearest socket wouldn't be 3 miles away. I said that myself, and he already gave a reason, and isn't acting like someone
+> who did this and is trying to cover it up.
+> I can go with him, if he thinks that's useful. But it sounds kind of far, would we make it back reasonably?
+
+---
+
+**GM —** [Looked up ACKS II wilderness movement rather than guessing: light horses 48 miles/day base. 30 miles round trip is a comfortable day
+but not this afternoon. Quellus's own "three miles" was wrong — he reckons from the stone — and Edward catches it.]
+
+> Not three miles. He's reckoning from the stone, the way he's thought about it for three years — a league past the marker — and he's forgotten
+> the marker is four leagues from his own door.
+>
+> You do the sum in front of him: twelve miles out to the stone, one more league past it, fifteen miles each way. Thirty there and back.
+>
+> He takes the correction the way he took the first one, which is to say badly and without complaint. "Fifteen." He rubs the cut on his jaw.
+> "Yes. Of course it is. I've had it at three miles in my head since the year I did it."
+>
+> Mounted, thirty miles on a made road is not a hard day — his three horses are in the stockade and they do nothing all week. But it is past the
+> middle of the afternoon, the rain has not stopped, and the last of that ride would be in full dark on a road with a river at the end of it.
+>
+> "First light, then." He says it flatly, and there is something in him that is glad of the delay and something else that is not. "You'll want your
+> own eyes on it and I'd not have it any other way. Otho can come for the lantern and the shovel, and he can keep his mouth shut, which is his one
+> real talent."
+>
+> He looks at the seven candles, and starts pinching them out, one at a time, which tells you what he thinks the night is going to cost him.
+>
+> "Mennicus goes over on the first raft regardless. No charge. That stands whatever the hole says." A pause. "Tell him from me that there'll be no
+> levy tonight, and let him think what he likes about why."
+>
+> The door opens onto a yard going blue with early dusk. The rain has thinned to almost nothing. Down at the water the rope is across and a raft is
+> being manhandled down the bank by six men and a lot of shouting. Somewhere behind the waystation a fire is going under an iron pot, and there is
+> Destrio's voice in the middle distance, complaining about fodder prices out of pure habit.
+>
+> The stockade rail is ten paces to your left, with a mule at it.
+>
+> And the waystation's corner footing, with a Zaharan block in it and the tail of an inscription running down into the mud, is right there under your hand.
+
+---
+
+**PLAYER —**
+
+> I'll take a quick look at the block, but I'm not going to spend terribly long here, in the rain. Mostly just want to check if it seems like it matters,
+> or is just a random inscription in a stone that got repurposed.
+> After that, I'll go report to Destrio.
+
+---
+
+**GM —** [Spent the loose clue: a second of the nine, robbed for building stone. It gives an ordinal where the first gave a series-size.]
+
+> It takes four minutes and it is enough.
+>
+> The block is the second course down at the corner, bedded in below the door-sill, two-thirds of it under the mud and the wet grass. What's above ground is
+> maybe a foot of face. It has been *squared* — the edges are chiselled true and there's a bolster-mark running the length of the top, which is a mason's work,
+> not a monument-cutter's. Somebody took a standing thing apart and made building stone out of it, and did it well.
+>
+> And across the middle of what's left, running out of the mud and stopping at the broken edge:
+>
+> The same hand. Not the same *stone* — this is a paler rock, and the cutting is shallower. But the same register: the sealing-verb, in the form you spent last
+> night reading by torchlight, in a construction no property boundary would ever use. It is the tail of a formula, and the last two signs before the break are
+> an ordinal.
+>
+> **—THE SIXTH.**
+>
+> The one under the marker told you there were at least nine. This one tells you they were *numbered*.
+>
+> You could get the rest of it with a spade and an hour. Not tonight. You put your thumb in the groove, feel how deep it is, and stand up with wet knees for the
+> second time in a day.
+>
+> The waystation above it is Auran and old. Whoever built it had a Zaharan monument close enough to hand to rob it for footings.
+>
+> ---
+>
+> Destrio is under the awning with a bowl of something, and he listens to the whole of it without interrupting once, which for him is a considerable expenditure.
+>
+> At the end he says: "No levy."
+>
+> "No levy."
+>
+> "And the raft's free."
+>
+> "And the raft's free."
+>
+> He looks into the bowl for a while.
+>
+> "I've hated that man for four years," he says, with real grievance, as though this were the injury. "Four years I've had a speech for him."
+>
+> Then he digs in his coat, and puts eight gold sun into your hand — counted, because he counts everything — and says, "That's yours. Arrival at Mirmen Ford. You
+> arrived."
+>
+> The coins are cold and heavier than you expected, and it is the first loose money you have carried since Kavala.
+>
+> "First raft's at full dark, they say. Second at moonrise if the water holds." He scrapes the bowl. "So say what you're going to say, Copper, because I'll be on
+> the far bank by midnight and you'll be riding west at dawn, and those are two different directions."
+
+---
+
+**PLAYER —**
+
+> "That report I gave you. I suppose it's yours to do what you will, but I believe Quellus has good intentions and wants to make right. So maybe talk to him. Maybe
+> next you come through, on your way back to the authority you'd serve it to, Quellus may be occupied tomorrow, and I don't know how long you intend to stay."
+
+---
+
+**GM —** [Destrio refuses to be managed — no unconditional yes — but takes his own version of the ask, and pushes Nauriva back at the player as a thing he could simply
+go and do]
+
+> He doesn't like it, and he lets you see he doesn't like it, and that is the most honest thing anyone has done for you today.
+>
+> "Good intentions." He says it the way you'd hold up a coin you suspect. "A man with good intentions and twenty-two of my sun is a man with twenty-two of my sun.
+> That's arithmetic and it doesn't care what's in his heart."
+>
+> He sets the bowl down.
+>
+> "But I'll go up and see him. Tonight, before the raft. Not for you and not to be kind to him — because I've had a speech in my mouth for four years and I've never
+> once had it in a room with a man who'd actually hear it, and I'll not waste that." He stands and works his shoulders. "And I'll tell him what he's cost me, item by
+> item, and he can sit there and take it, and *then* we'll see what he means by making right."
+>
+> He taps his coat where the paper is.
+>
+> "This stays mine. Casra Nuvicerre, fifth week, and I'll make up my mind on the road like I do everything. You write what you like in yours — you're the one whose
+> name's on the reading, and I'd not have you shade a word of it for my sake or his."
+>
+> Then he looks past you, at the stockade rail, and his face does nothing at all.
+>
+> "That's her mule."
+>
+> That is the entire sentence. He does not add to it, and when you wait, he lets the wait happen and does not fill it.
+>
+> Down at the water somebody is shouting for a lantern. The far bank has gone dark blue and the near bank is a mess of torches and men and a raft that is more optimism
+> than boat.
+>
+> "Right," Destrio says. "So. Fifteen miles west in the morning with a customs man and a shovel, and after that?" He looks at you sideways. "You've eight sun in your
+> fist and no employer. I've watched better-fed men than you make worse plans than that."
+
+---
+
+**PLAYER —**
+
+> I shrug. "Sometimes you gotta see where the world takes you."
+> "I'll not take the document from you. You paid me for it, and none of it is false."
+> "Do you think I'm being stupid trusting him that far? I saw her mule too. Still don't know what her role is. If he takes me 15 miles west with no intention of me making
+> it back, well, you have your document, so he wouldn't be buying silence. Maybe don't mention it. I don't know."
+
+---
+
+**GM —**
+
+> "Stupid." He chews it. "I've no opinion on the man. I've told you twice I don't guess at people and I meant it both times."
+>
+> Then he holds up a finger, and this is different — this is the caravan master, and it is the one subject on which he is genuinely, unshowily expert.
+>
+> "But that's not the question you asked. The question is thirty miles of Borderlands road with three men and a shovel and not one soul on either bank expecting you back at
+> a particular hour. That's the risk and it's the same risk whether he's a saint or the other thing. Out there it doesn't much matter what's in his heart either. Same arithmetic."
+>
+> He blows out through his nose, and then says, in the aggrieved tone of a man being robbed:
+>
+> "I'll leave you Kest. One day. He's slow, he eats like a horse, he's got no conversation, and he'll dig all afternoon without asking why, and he's the only one of mine I'd
+> trust to still be standing where I put him. And he costs me a hand on the far bank and I want you to know it costs me a hand on the far bank."
+>
+> Then he picks up his bowl again, and does not look at the stockade rail.
+>
+> "As for what her role is." He scrapes the last of it. "You've been six days behind that mule and I've been three years, and neither of us has said her name to her face and asked
+> her a plain question. She's ten paces that way, Copper, sat under the fodder awning where she's been since before we came up the road."
+>
+> Down at the water, a horn goes. Once, badly.
+>
+> "First raft," says Destrio. "That's me."
+
+---
+
+**PLAYER —**
+
+> Can I get you to write your transcript into the repo? It's helpful evidence for post mortem analysis
+
+*(This file. Session continues below as it happens.)*
