@@ -498,3 +498,229 @@ because it is Edward's own professional knowledge, not an inference about the my
 > Ahead, the rain thins enough to show the valley properly: the Mirmen running brown and wide, a stone-built
 > waystation on the near bank with a newer palisade thrown up around it, and men on the bank in the wet, doing
 > something to a rope.
+
+---
+
+**PLAYER —**
+
+> Ok, so... The *fifth* stone from Casra Nuvicerre is (supposed to be) 11 leagues out, but each stone is about
+> a league from the previous? What happened to the other 6?
+> And who would tamper with the stone? Who cares if the Empire stops 5 or 6 stones from Casra Nuvicerre when
+> there isn't anything between the 5th and 6th stones? (or where those stones would be if untampered)
+> I think I need some more clues here or something.
+> Otherwise, I think we just continue to the way station.
+
+---
+
+**GM —** [**Second bookkeeping error caught by the player, and this one was mine.** "About the fifth stone
+beyond Casra Nuvicerre" does not survive contact with ~1-league spacing over 11 leagues. Corrected out of
+character in one line and replaced with an identifier that works — and is better, because it makes the
+inscription's own figure load-bearing. Also gave more, per `CLAUDE.md`: "when you're unsure how much to give,
+give more."]
+
+> Straight correction, my error: I had Edward call it "about the fifth stone beyond Casra Nuvicerre," and you're
+> right that the count doesn't work — the stones don't run a league apart for eleven leagues and land on five.
+> Scratch the counting version. The saying goes by the figure, not the tally, and that turns out to matter:
+>
+> **"The Empire stops at the eleven-league stone."**
+>
+> That's how it's said, because that is how it's *found*. Nobody out here counts markers — they read them. A
+> carter who wants to know whether he's inside walks until he finds the stone whose face says eleven leagues to
+> Casra Nuvicerre, and that is the frontier, and the roll at Casra says the same thing in more words.
+>
+> Which means the frontier is not at a place. It is wherever the stone that says *eleven* happens to be standing.
+>
+> You have spent a night proving that the stone which says eleven is standing at twelve.
+>
+> As for who cares — you don't know. Nothing lives out there. You went past it in the dark and you'll go past the
+> rest of it in the rain: grey rock, a dry watercourse, scrub that isn't grazed because there's nobody to graze it.
+>
+> ---
+>
+> You walk it down. Three leagues of switchbacked road losing height into the valley, the rain slackening to a
+> mizzle that gets into everything anyway.
+>
+> Destrio talks, because walking downhill loosens him and because his one subject is money.
+>
+> "Fifth time down this road this year, and every time back up it I'm lighter." He's watching his own wheels, not
+> you. "That's the part that galls. Going out I carry iron and fish sauce and he waves me through like I'm nothing,
+> because I *am* nothing, going out. Coming back's when he's got his hand out. Coming back I've the odd crate of
+> what the diggers sell me — lamps, buckles, a bronze thing shaped like a duck that I still can't shift — and he
+> wants the Empire's half of it. On a bronze duck." He spits. "Four times. Four times I've handed over the Empire's
+> half of a duck."
+>
+> The waystation comes up out of the murk as the road flattens.
+>
+> It's Auran and it's old — proper coursed masonry, a squat rectangle with a tiled roof patched in three colours,
+> the sort of thing put up when the Empire meant business here. The palisade around it is new by comparison, twenty
+> years at the outside, raw stakes and green withies. There's a stockade for animals, smoke from two fires, and
+> washing strung under an awning that will not be drying today.
+>
+> Your eye goes to the footings, because it always does. The lowest course of the waystation wall is not the same
+> stone as the rest of it. Bigger blocks, dressed, darker, laid in as foundation the way builders have always robbed
+> out whatever was lying about. One of them, half-buried at the corner, carries the tail of an inscription running
+> off into the ground.
+>
+> You've read that hand once already, four hours before dawn, on your knees in a hole.
+>
+> At the bank, six or seven men are working a heavy rope across the brown water, and the water is well up over
+> whatever stepping-stones there used to be.
+>
+> One of them has seen the wagons and is walking up the road toward you. He isn't hurrying and he isn't armed.
+
+---
+
+**PLAYER —**
+
+> Let's see what he has to say then. I can check that footing later.
+
+---
+
+**GM —** [chaos lowered 5 → 4 (player ended the stone-6 scene more in control); Quellus's clock ticked 2 → 3;
+Otho created with a name and a want. Decided Quellus's posture from INTENTION rather than the oracle, per
+`CLAUDE.md`: he is not suspicious, he is *interested*.]
+
+> He is about forty, Tirenean by the look of him, and he is wearing a military cloak that stopped being military
+> some years ago — the fittings are gone off it and it has been re-hemmed by somebody's wife. He has a hood he isn't
+> using and hair plastered flat. He is picking his way along the drier edge of the road with the fixed concentration
+> of a man whose boots are already wet and who is going to keep the rest of himself out of it as a matter of principle.
+>
+> "Mennicus." He says it without checking, so he knows the wagons. "You're a day behind."
+>
+> "I'm a day behind," Destrio agrees, in the sour voice he promised you.
+>
+> "Ford's up. Went over at second bell yesterday and it's still coming." He tips his head back toward the water, where
+> the rope crew have got a line most of the way across and are arguing about it. "We'll have the raft on by dusk if the
+> rain quits. Two crossings tonight if you want them, four tomorrow. There's a charge for it — that's separate, that's
+> the ferry, that's not the other thing." He says this last part quickly, like a man repeating a formula he's been
+> drilled on and does not want to be blamed for.
+>
+> "Standing's up behind the palisade, dry-ish. Fodder if you're buying. Don't let your people down to the bank after
+> dark, the mud takes a leg off you."
+>
+> He looks past Destrio at the line of wagons, at the crew unhitching, at you. Then back at Destrio, and asks it
+> plainly, the way you'd ask about a wheel:
+>
+> "Which of you reads?"
+
+---
+
+**PLAYER —**
+
+> "That'd be me." This doesn't seem like it'd be suspicious to ask, so I won't seem suspicious to answer
+
+---
+
+**GM —**
+
+> Something goes out of Otho's shoulders. He'd been told to ask and he has asked and that part of his day is done.
+>
+> "Good. Right." He wipes rain off his face with the flat of his hand and looks briefly, genuinely relieved. "Then
+> you'll want to come up. He's asking."
+>
+> He says it the way a man says the cook wants you, and starts walking before he's checked whether you're following,
+> which is its own kind of answer about how often anybody says no here.
+>
+> "He's been up since midnight with his papers out on the table. Candles going. I've not seen him do that since the year
+> before last." A grunt that might be amusement or might be complaint. "So you'll be a while, I expect. Don't tell him I
+> said."
+>
+> The palisade gate is a hurdle dragged aside on a rope. Inside is beaten mud, duckboards laid in the worst of it, the
+> two fires under an awning, a stack of split wood under another. The waystation door is oak and open, and there is light
+> in there — proper light, several candles' worth, in the middle of a grey afternoon.
+>
+> In the stockade to your left, out of the weather with the crossing's animals, there is a mule with a saddle blanket over
+> the rail beside it. You have walked six days behind that mule.
+>
+> Nobody remarks on it.
+>
+> Otho is at the door, holding it, waiting on you with the patience of a man who is already as wet as he is going to get.
+
+---
+
+**PLAYER —**
+
+> I go on in.
+
+---
+
+**GM —** [core clue delivered as pure observation, never gated: the thumb on the term clause]
+
+> The room is better than the building deserves. Somebody has kept it: the hearth swept, the flags mopped, the Auran
+> masonry pointed where it had started to shed. There is a folding campaign table in the middle of it, the real thing,
+> bronze-hinged, army issue, and it is the only object in the room that has not been mended. Everything else has: the
+> chair, the shutters, the bucket, the man.
+>
+> He is about fifty. He is clean-shaven, which nobody out here is, and he has done it recently and not well, and there is
+> a cut on his jaw. His tunic has been turned. Over it he wears a soldier's belt — the plates polished to a shine you could
+> read a page by, the leather oiled, the buckle sound. In this room the belt is the only thing that is not four years old
+> and tired, and it is four years old and tired too; it has just been *maintained*, daily, by a man with time.
+>
+> There are seven candles going. Seven. In the afternoon.
+>
+> The table is covered in paper laid out in courses like masonry: a roll with a lead seal still on its cord, ledgers, and a
+> great stack of letter-copies with their edges gone furry from handling.
+>
+> "Quellus Tarcalus," he says. "Limitanus." He does not offer a hand; he inclines his head, which is a formal thing, and an
+> old thing, and he does it properly. "You'll want to sit before you're asked twice. Otho, the door."
+>
+> The door goes. Otho does not come in.
+>
+> "Edward Copper," he says, testing it. "Krysean. Mennicus took you on at Kavala to read the line in." Not a question, and he
+> doesn't dress it up as one. "Classical Auran, is it. Not the trade hand — the *cut* hand. Formulae. Reigns."
+>
+> He turns the seal-roll a quarter turn on the table so it faces you, without unrolling it, and rests two fingers on it.
+>
+> "Then I'll ask you the thing I've been asking for three years and getting nothing but shrugs for."
+>
+> He leans in slightly. The candles do what candles do to a face that has been awake all night.
+>
+> "How many of them did you read on the way down? All of them, or only the ones the daylight fell on?"
+
+---
+
+**PLAYER —**
+
+> "All of them, sir. That was the job."
+
+---
+
+**GM —** [Quellus makes his ask: an attestation that the bound is sound, for eight sun and free passage. He is
+sincere. His guilt is one question away but he does not volunteer it here.]
+
+> Something happens in his face that he puts away almost at once, and it is not triumph. It is closer to the look of a man who
+> has been carrying something heavy and has just been told there is a cart coming.
+>
+> "All of them." He repeats it. "*That was the job.*"
+>
+> He gets up. He is not a big man and he moves stiffly on one side. He unties the cord on the sealed roll and lays it open on the
+> table with the flat of both hands, the way you'd handle something you'd been shown how to handle.
+>
+> It is a commission. Imperial, properly drawn, the hand of a provincial chancery and not a good one but a real one. The lead seal
+> is on its cord, uncracked, and it is genuine — you have seen that die a hundred times on charters, and this is that die. *Quellus
+> Tarcalus, to the customs of the Mirmen crossing and the road thereto, in the name of the Emperor* — and there is a term clause,
+> because there is always a term clause.
+>
+> His right thumb is resting on the line where the term clause gives its dates.
+>
+> It does not move.
+>
+> "Fourteen reports west in four years," he says. "Two answered. Both in the first year, both from a clerk, both telling me the
+> office was moving. I have the copies. I keep everything." He touches the furry-edged stack, and then, deliberately, does not touch
+> the ledgers beside it. "I have not been relieved. That's the word for it. *Unrelieved.* A man can be unrelieved for a long time
+> and still be at his post, and being at your post is the whole of it."
+>
+> He looks up.
+>
+> "Here is what I want and I'll pay for it. I want a statement. Written, in your hand, in the proper form, saying who you are and
+> what you read and that you are competent to read it — and saying that the eleven-league stone stands where the survey of Ulkyreus
+> set it. That's all. One page. A qualified reader has walked the whole line down from Casra Nuvicerre and finds the bound in order."
+>
+> He says it without a flicker, because he believes every word of it.
+>
+> "Eight sun for the page. And Mennicus goes over tonight on the first raft with no charge on the ferry, which is mine to give and
+> I'll give it."
+>
+> Outside, faintly, men are shouting about the rope.
+>
+> "Three years I've asked. Everybody who comes through this crossing can read a tally and not one of them can read a stone."
