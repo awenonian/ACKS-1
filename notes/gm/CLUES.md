@@ -28,7 +28,7 @@ find it. A roll may govern speed, extra detail, or cost — never availability.
 | Clue | Where it lives | Core? | Status |
 |---|---|---|---|
 | Stone 4 → Stone 5 is 2 leagues where every other leg that day was 1–1¼ | Edward's own journal | **core** | **delivered**, session 1, on request |
-| The leg from this stone east to the next should therefore be 1 league short — testable tomorrow | The road ahead | no | undelivered |
+| The leg from this stone east to the next should therefore be 1 league short — testable tomorrow | The road ahead | no | **spent**, session 2 — paced at 1 league where the stones' own figures say 2 |
 | An empty socket with a stone-shaped depression, one league back west | Off the road, one league behind | no | undelivered |
 
 ### Quellus prices each toll because he knows the cargo in advance
@@ -73,7 +73,9 @@ anything drawn from here is consistent by construction.
 Spend them when a scene needs something; carry the unspent ones forward to the
 next session rather than starting fresh.
 
-- 
+- Quellus's men are working a rope on the bank in the rain as the caravan comes in sight. It is a hauling line for a raft-ferry he rigs when the ford is up, and he charges for it separately from the toll — a fee, not a bribe, and he is proud of it.
+- The waystation on the near bank is Auran-built and older than the palisade round it. Its footings carry dressed stone that is not Auran — including one large block with the tail of a sealing-formula on it. A second of the nine, carted off and reused, out of place and useless as a line-point but unmistakable to anyone who has just read the first.
+- Nauriva has ridden this road for four masters. Anyone at the crossing who knows the road crews knows that.
 
 ## Unrevealed
 
@@ -83,9 +85,16 @@ is what lets the world contradict it by behaving normally, rather than by you
 correcting them.
 
 - The Zaharan socket under the imperial marker is not incidental. There was a
-  Zaharan boundary line here first, and it ran somewhere. Quellus chose that socket
+  Zaharan line here first, and it ran somewhere. Quellus chose that socket
   because it was the nearest hole that would take the stone — he has no idea what it
-  is. Nobody has followed the Zaharan line. **Unestablished in play; available.**
+  is. Nobody has followed the Zaharan line.
+- **The player's current reading, stated in play (session 2):** that the Zaharan stone is
+  unrelated — that the Empire reused an older landmark site, and the coincidence is just
+  landmark reuse. Half right (Quellus did take the nearest hole) and wrong about it being
+  incidental. **Do not correct it. Let the world be as it is.** He also believed, briefly,
+  that moving one stone along a chain accomplishes nothing; that premise was corrected in
+  play because the overshooting survey is Edward's own professional knowledge, not an
+  inference about the mystery.
 - Auran treasure law is public knowledge and already on the player-facing ledger.
   It is not a clue. What it *means* here is the inference, and that stays the
   player's to make.

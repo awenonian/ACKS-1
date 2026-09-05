@@ -11,8 +11,8 @@ your decision for something the table established.
 
 ## Chaos factor
 
-**5**  *(6 after Nauriva's ride; back to 5 after the dig, which Edward finished on
-his own terms and got exactly what he went for)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
+**4**  *(6 after Nauriva's ride; 5 after the dig; down to 4 in session 2 — he predicted
+the short leg, walked it, and was right, and arrived at the crossing on his own terms)* — how much the world intrudes, 1 to 9. Feeds `scripts/oracle.py`.
 
 Move it one step after a scene: up if the player ended less in control than
 they started, down if more. Not further, and not because a scene felt slow.
@@ -25,7 +25,7 @@ player stalls rather than forcing them to choose.
 
 | Clock | Segments | Filled | What happens when it completes |
 |---|---|---|---|
-| Quellus learns someone has read the stone properly | 4 | **2** | He stops being a toll problem and starts being a man protecting a secret. He will not kill over it at first; he will confiscate, detain, and produce paperwork. |
+| ~~Quellus learns someone has read the stone properly~~ | 4 | **4 — COMPLETE, session 2** | Resolved the other way: he stopped collecting instead of protecting himself. See the waystation section below. |
 | The Mirmen crossing stops being tolled at all | 6 | 1 | Quellus's men give up on him. The strip becomes open ground, and something worse than a fraudulent customs officer moves onto the road. |
 
 ## Rulings
@@ -214,3 +214,106 @@ strip is not valuable because anybody lives on it. It is valuable because of wha
 Auran treasure law says about ground that is outside the Empire, and because the
 Borderlands is full of ruins. The player has the treasure law on the player-facing
 ledger already. **Do not connect it for them.**
+
+---
+
+## The geometry of the frontier — RESOLVED, session 2, and now partly in play
+
+The player asked the right question — *moving a marker along a chain doesn't extend
+anything* — and this is the answer. It must not drift.
+
+**The Ulkyrean survey overshot.** In the reign of Ulkyreus the Empire meant to take
+this country, and the surveyors ran a chain of markers all the way out along the
+Mirmen road, past the crossing and beyond, in one cutting program. The Empire never
+absorbed it. The legions were needed elsewhere then too.
+
+**So the chain is longer than the Empire.** The markers beyond the frontier are
+genuine, identical, and stand in country the Empire does not hold. Stone 6 is one of
+those. That is why it is authentic, untampered, and completely uninteresting.
+
+**The frontier itself is declared at a named marker in the chain** — the fifth
+beyond Casra Nuvicerre. The declaration lives in the survey roll (the *forma*) at
+Casra Nuvicerre. The ground does not carry it; only the roll does.
+
+**Therefore moving the fifth stone one league further from Casra moves the declared
+frontier one league.** That is the whole fraud, and it needed exactly one stone.
+
+**What "everyone knows":** that the Empire stops "about the fifth stone." Which
+stone, and where that stone stands, is what nobody checks. Edward knows the saying.
+
+**Direction convention, fixed:** Casra Nuvicerre is WEST, behind them, ~12 leagues.
+Mirmen Ford is EAST, ahead. East = away from Casra = *outward*. The road numbers
+climb eastward: stone 5 says eleven leagues, stone 6 says thirteen.
+
+**Delivered in play, session 2:** the road-leg test at stone 6 (walked one league
+where the stones' own figures say two — one stone, one league, confirmed from both
+sides); Auran boundary law (the limes is a surveyed line fixed by monuments; the
+figures point back to the seat of survey; the roll governs over the monument;
+*termini moti* is loss of the land, twice value, and infamy); the *forma* and the
+bounds-court both sit at Casra Nuvicerre, three days back west.
+
+**Not yet delivered:** that the strip contains nothing and is valuable only because
+of what treasure law says about ground outside the Empire. Still his to make.
+
+## Otho — the man who walks up the road (new, session 2)
+
+Tirenean, about forty, one of the eleven. Was a soldier; is now a man who lives at a
+crossing. Wants dry boots and to be somewhere with a roof, and conducts the whole
+reception in that spirit. Not menacing, not clever, not lying. He asks *"which of you
+reads?"* because Quellus told him to, which is the only tell Edward gets that Nauriva
+talked, and nobody in the fiction will point at it.
+
+**Quellus's actual posture, decided from INTENTION, not the oracle:** he is not
+suspicious. He is *interested*. Three years unrelieved, and a literate man who reads
+Classical Auran and walks the boundary chain professionally is the nearest thing to
+the Empire that has come down this road in four years. He half hopes Edward will
+vindicate him. That is what makes him dangerous — not menace, hope.
+
+## The waystation scene — RESOLVED IN PLAY, session 2
+
+**Quellus's memorandum (year two, to the office at Casra Nuvicerre, never answered):**
+eleven lines of correct official Auran reporting that the marker of the bound was found
+fallen and buried, was raised by the officer commanding with six men on the fourth day,
+and was set in *the nearest sound socket, the former being broken and unfit*. He kept
+the copy. He produced it himself, to disprove Edward, and it did the opposite.
+
+**Is "the former being broken and unfit" true?** Yes. Quellus does not lie. The original
+Auran socket-block, one league west, is genuinely cracked through — the stone's own fall,
+or frost. What is *not* true is "nearest." Three miles with six men and a sledge is a day's
+work and no one carries a stone three miles to find the nearest anything. Edward saw the
+contradiction and chose not to say it. **The player has explicitly decided Quellus is
+sincere and not covering up. He is right about the sincerity and wrong about the league —
+do not resolve this for him, and do not have anyone in the fiction point at "nearest."**
+
+**Quellus's new theory, which he arrived at himself and believes:** somebody moved the
+stone before him, and he has been holding a line they falsified. He is wrong. Do not
+soften this into being secretly right. Nobody moved it before him. It fell where it stood.
+
+**What the old socket will show, when they get there:** an Auran socket-block cracked
+through, a stone-shaped depression, and the bedding of a marker that stood upright there
+for three and a half centuries. It refutes his theory outright. It also confirms every
+word of his memorandum except the one he leaned on.
+
+**His commission's district:** "to the customs of the Mirmen crossing and the road thereto,
+as far as the bound of the Empire." The post sits four leagues *outside* the Empire, at the
+chokepoint. His authority to take the Empire's half runs only over ground inside the bound.
+About a dozen freelance diggers work the ruin country between the crossing and the stone —
+"the Spur," "the low barrow" — and bring their finds down this road because there is no
+other road. Three or four of the twelve diggings in his ledgers sit on either side of the
+moved league; he reckoned that himself, out loud.
+
+**Auran law as delivered:** the memorandum buys him *intent* — no infamy, no severe
+*termini moti*, because he reported it openly in his second year. It does not make the
+bound correct. Restitution follows the man holding the money, not the office that never
+wrote back. The Empire's silence has never bound the Empire.
+
+**Distances, fixed:** crossing → fifth stone = 4 leagues (12 miles). Fifth stone → old
+socket = 1 league further west. So the socket is **15 miles from the crossing**, not the
+three miles Quellus said off the cuff (he reckons from the stone). Light horses do 48
+miles/day base, so 30 miles out and back is a comfortable day — but not this afternoon.
+Quellus keeps three horses in the stockade.
+
+**Clock update:** "Quellus learns someone has read the stone properly" is **complete**, and
+it did *not* complete the way it was written. He did not become a man protecting a secret.
+He stopped collecting. Retire that clock; the pressure now runs the other way — eleven men
+at a crossing with no income, and a customs officer who has just abolished his own post.
