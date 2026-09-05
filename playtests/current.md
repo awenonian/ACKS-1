@@ -1,5 +1,9 @@
 # Current playtest
 
+**Session 1 has been run and archived** to `01-acks-character-creation.md`. This file
+is the blank for session 2 — start it fresh from `TEMPLATE.md` before the next run,
+or just append to the Log below; the GM appends here on a `log:` command either way.
+
 Ready to use. The GM appends to the Log section when the player says `log:`
 followed by anything — no setup required.
 
